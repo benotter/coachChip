@@ -1,4 +1,4 @@
-angular.module('coachChip.controllers',[])
-.controller('cardCtrl', function($scope) {})
+// angular.module('coachChip.controllers',[])
+// .controller('cardCtrl', function($scope) {})
+// };
 
-});
